@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hopinten.github.io/sitemap.html.gz
+Sitemap: https://hopinten.github.io/app/sitemap.html.gz
+Sitemap: https://hopinten.github.io/assets/sitemap.html.gz
+Sitemap: https://hopinten.github.io/css/sitemap.html.gz
+Sitemap: https://hopinten.github.io/includes/sitemap.html.gz
+Sitemap: https://hopinten.github.io/item/sitemap.html.gz
+Sitemap: https://hopinten.github.io/src/sitemap.html.gz
